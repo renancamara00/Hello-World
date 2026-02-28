@@ -1,5 +1,5 @@
-function testando() {
+function saudacao() {
     return console.log('Hello World!!!!!')
 }
 
-testando()
+saudacao()
