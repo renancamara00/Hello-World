@@ -6,7 +6,7 @@ function maiorNumero() {
     return {maximo, minimo}
 }
 
-console.log(maiorNumero())
+console.table(maiorNumero())
 
 // duas maneiras de fazer a mesmas coisa... o dei baixo sem função apenas com laço
 
