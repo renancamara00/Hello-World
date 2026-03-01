@@ -6,6 +6,7 @@ function calculo(...numeros) {
     return media / numeros.length
 }
 
+console.log(calculo())
 console.log(calculo(4, 6))
 console.log(calculo(10, 20, 30, 40))
 console.log(calculo(5, 10, 15, 20, 30))
