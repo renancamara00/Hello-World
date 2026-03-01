@@ -1,4 +1,4 @@
-let matriz = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+let matriz = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 function maiorNumero() {
     const maximo = Math.max(...matriz)
