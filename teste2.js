@@ -1,4 +1,4 @@
-// calculado da média
+// calculo da média usando função 
 
 function calculo(...numeros) {
     if (numeros.length === 0) return 0
